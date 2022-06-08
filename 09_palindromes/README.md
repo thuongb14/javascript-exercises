@@ -15,5 +15,8 @@ A palindrome is a string that is spelled the same both forwards and backwards, u
 palindromes('racecar') // true
 palindromes('tacos') // false
 ```
+turn to array1. 
+array 2 = array 1 reverse. join.
+if true => return true; 
 
 
